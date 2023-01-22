@@ -2,7 +2,7 @@
 This repo contains the work me and my partner have done for the 2022/2023 Shell Datathon Competition
 https://www.kaggle.com/competitions/shell-datathon-coderspace/overview
 
-*Note: I can't push the latest commit due to errors stemming from large file sizes, will delete this note once I do that
+*Note: I have used Git LFS to store the large .pkl data files so I could push the commits
 
 The aim of this datathon is to predict the weekly fuel orders across Shell Turkey's 1000+ stations in the year 2019. 
 Participants have access to the price data for 2014-2019, and sales data for 2014-2018.
